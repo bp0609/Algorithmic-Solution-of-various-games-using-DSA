@@ -1,5 +1,5 @@
 # Games
-These are the links of the game in case if you don't know the game.<br><br>
+These are the links of the game in case if you don't know the game.<br><\n>
 Connect 4 ---> https://en.wikipedia.org/wiki/Connect_Four<br><br>
 Puzzle 8  ---> https://www.mathsisfun.com/games/arrange.html<br><br>
 Marble Game<br>
