@@ -7,5 +7,5 @@ Marble Game<br>
 <t>Hard Version ( DFS + Memoisation )---> https://codeforces.com/contest/1914/problem/E2<br>
 <t>DFS=> Deapth First Search<br>
 <br>
-Tower Of Hanoi ---> https://www.mathsisfun.com/games/towerofhanoi.html<br>
-Up it Up Game ---> https://youtu.be/N_GbBjvU068?si=HhGYFllZ6CLCpMBH
+Tower Of Hanoi ---> https://www.mathsisfun.com/games/towerofhanoi.html<br><br>
+Up it Up Game ---> https://youtu.be/N_GbBjvU068?si=HhGYFllZ6CLCpMBH<br><br>
