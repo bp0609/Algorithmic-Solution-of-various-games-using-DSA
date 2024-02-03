@@ -8,3 +8,4 @@ Marble Game<br>
 <t>DFS=> Deapth First Search<br>
 <br>
 Tower Of Hanoi ---> https://www.mathsisfun.com/games/towerofhanoi.html
+Up it Up Game ---> https://youtu.be/N_GbBjvU068?si=HhGYFllZ6CLCpMBH
